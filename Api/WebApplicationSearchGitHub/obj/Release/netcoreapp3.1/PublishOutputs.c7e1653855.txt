@@ -1,0 +1,12 @@
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplicationSearchGitHub.exe
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplicationSearchGitHub.dll
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplicationSearchGitHub.deps.json
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplicationSearchGitHub.runtimeconfig.json
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplicationSearchGitHub.pdb
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thiago\source\repos\WebApplicationSearchGitHub\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
